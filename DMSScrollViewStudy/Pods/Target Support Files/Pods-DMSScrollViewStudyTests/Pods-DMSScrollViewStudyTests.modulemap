@@ -1,0 +1,6 @@
+framework module Pods_DMSScrollViewStudyTests {
+  umbrella header "Pods-DMSScrollViewStudyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
